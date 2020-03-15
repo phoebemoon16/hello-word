@@ -13,7 +13,7 @@
                 <!-- <span class="el-dropdown-link userinfo-inner">
                   {{userName}}</span> -->
                 <el-dropdown-menu slot="dropdown">
-                  <el-dropdown-item @click.native="loginout">退出登录000</el-dropdown-item>
+                  <el-dropdown-item @click.native="loginout">退出登录</el-dropdown-item>
                 </el-dropdown-menu>
               </el-dropdown>
           </el-col>
