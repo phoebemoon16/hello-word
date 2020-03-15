@@ -1,4 +1,4 @@
-# hello-word
+# whh
 
 ## Project setup
 ```
